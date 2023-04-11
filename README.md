@@ -20,9 +20,22 @@ Readme related assignment solution
 
 Provide instructions and examples for using your project. You can include commands, code snippets, and configuration details. You can also include screenshots or videos to provide visual aids.
 
+## Run Test
+
+npm run test
+
+## Author
+
+- GitHub - https://github.com/captainAnii
+- LinkedIn - https://www.linkedin.com/in/anikegosavi1999/
+
 ## Contributing
 
 If you want to contribute to this project, please follow the guidelines in CONTRIBUTING.md. Include information on how others can contribute, such as reporting bugs, suggesting improvements, or submitting pull requests.
+
+## Show your support
+
+Give a ⭐ if the project helped you.
 
 ## License
 
